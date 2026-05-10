@@ -42,7 +42,7 @@ Currently, I am focused on building my cybersecurity portfolio, expanding my tec
 🔹 Linux & VirtualBox Practice Labs  
 🔹 Security Awareness Projects  
 🔹 Cybersecurity Coursework & Research  
-
+🔹 IT Support & Troubleshooting Case Studies
 ---
 
 ## Currently Learning
