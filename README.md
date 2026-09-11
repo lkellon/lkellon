@@ -37,12 +37,23 @@ Currently, I am focused on building my cybersecurity portfolio, expanding my tec
 
 ## Current Projects
 
-🔹 Cybersecurity Notes Repository  
-🔹 Password Security & Hash Analysis Labs  
-🔹 Linux & VirtualBox Practice Labs  
-🔹 Security Awareness Projects  
-🔹 Cybersecurity Coursework & Research  
-🔹 IT Support & Troubleshooting Case Studies
+## Featured Cybersecurity Projects
+
+### 🔐 Secure Web Login Hardening
+Analyzed and remediated insecure authentication practices including HTTP GET credential submission, SQL injection, plaintext password handling, weak session practices, and missing Content Security Policy controls.
+
+**Skills:** PHP, HTML, SQL, PDO, prepared statements, password verification, session security, CSP, secure credential handling.
+
+### 🛡️ Network Security Defense Plan
+Developed a defense-in-depth security plan addressing unauthorized network access, SQL injection, XSS, phishing, ransomware, network segmentation, IDPS, MFA, TLS, monitoring, vulnerability assessment, and incident response.
+
+**Skills:** Network security, risk assessment, NIST guidance, OWASP concepts, incident response, security controls, technical documentation.
+
+### 🔑 CTF Password Cracking Lab
+Used Linux, `/etc/shadow`, Oracle VM VirtualBox, and John the Ripper to analyze password hashes in a controlled Capture-the-Flag lab environment.
+
+### 🖥️ IT Support Case Studies
+Documented troubleshooting scenarios involving Windows systems, networking, printers, hardware diagnostics, and end-user support.
 ---
 
 ## Currently Learning
