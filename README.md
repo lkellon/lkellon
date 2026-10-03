@@ -37,6 +37,24 @@ governance, risk, and compliance (GRC), and responsible technology.
 
 [View and verify my certificate](https://coursera.org/share/bb8989402dc06a93e61e2ca38f8504c6)
 
+### Google AI Essentials
+**Google | Coursera**  
+Completed: June 30, 2026  
+Five-course specialization certificate
+
+- Training in generative AI tools, prompting, and productivity.
+- Coursework on responsible AI use, potential bias, and avoiding harm.
+
+### Foundations: Data, Data, Everywhere
+**Google | Coursera**  
+Completed: May 2022 | Grade: 100%  
+Course completion certificate
+
+- Coursework covering data analytics concepts, data ecosystems,
+  and analytical thinking.
+- Introduction to the role of spreadsheets, query languages,
+  and visualization tools in data analysis.
+
 ——-
 
 ## Featured Cybersecurity Portfolio
