@@ -20,6 +20,24 @@ I am building practical cybersecurity experience through academic projects, secu
 My background also includes warehouse operations, merchandising, order fulfillment, inventory control, and customer service. These experiences strengthened my attention to detail, reliability, problem-solving, teamwork, and ability to perform accurately in fast-paced environments.
 
 ---
+## Certifications & Training
+
+### Global MOOC on the Ethics of AI
+**UNESCO | Offered through Coursera**  
+Completed: October 3, 2026  
+Course completion certificate | Grade: 90%
+
+Completed coursework covering:
+- Core principles and frameworks of AI ethics and responsible AI.
+- Ethical risks and societal impacts of AI systems.
+- Governance and human rights-based approaches to AI development and use.
+
+This training supports my interest in AI governance,
+governance, risk, and compliance (GRC), and responsible technology.
+
+[View and verify my certificate](https://coursera.org/share/bb8989402dc06a93e61e2ca38f8504c6)
+
+——-
 
 ## Featured Cybersecurity Portfolio
 
