@@ -44,6 +44,7 @@ Five-course specialization certificate
 
 - Training in generative AI tools, prompting, and productivity.
 - Coursework on responsible AI use, potential bias, and avoiding harm.
+[View and verify my certificate](https://coursera.org/verify/specialization/2XZGCC87E212)
 
 ### Foundations: Data, Data, Everywhere
 **Google | Coursera**  
@@ -54,6 +55,7 @@ Course completion certificate
   and analytical thinking.
 - Introduction to the role of spreadsheets, query languages,
   and visualization tools in data analysis.
+[View and verify my certificate](https://coursera.org/share/60cdcba1bb042c3930d5644cf2046473)
 
 ——-
 
